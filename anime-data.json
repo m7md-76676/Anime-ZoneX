@@ -1,0 +1,20 @@
+[
+  {
+    "title": "One Piece",
+    "episode": "الحلقة 1100",
+    "image": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+    "link": "episode-onepiece.html"
+  },
+  {
+    "title": "هجوم العمالقة",
+    "episode": "الحلقة الأخيرة",
+    "image": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "link": "episode-aot.html"
+  },
+  {
+    "title": "قاتل الشياطين",
+    "episode": "الحلقة 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+    "link": "episode-demonslayer.html"
+  }
+]
